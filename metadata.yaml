@@ -1,0 +1,33 @@
+_repo: Naturstudien-im-Hause-b-Plaudereien-in-der-Dammerstunde_70692
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schwindrazheim, Oskar
+    gutenberg_agent_id: '55868'
+    url: http://www.gutenberg.org/2009/agents/55868
+creator:
+  author:
+    agent_name: Kraepelin, Karl
+    gutenberg_agent_id: '55867'
+    url: http://www.gutenberg.org/2009/agents/55867
+  editor:
+    agent_name: Schmidt, C. W.
+    gutenberg_agent_id: '55869'
+    url: http://www.gutenberg.org/2009/agents/55869
+description: ''
+gutenberg_issued: '2023-05-03'
+identifiers:
+  gutenberg: '70692'
+language: de
+pgterms:marc905: 20191116052527kraepelin
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bB. G. Teubner, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Naturstudien im Hause : $b Plaudereien in der Dämmerstunde'
+url: http://www.gutenberg.org/ebooks/70692
