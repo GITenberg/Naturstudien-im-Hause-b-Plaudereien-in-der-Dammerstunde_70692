@@ -5,6 +5,9 @@ contributor:
     agent_name: Schwindrazheim, Oskar
     gutenberg_agent_id: '55868'
     url: http://www.gutenberg.org/2009/agents/55868
+covers:
+- cover_type: archival
+  image_path: 70692-h/images/cover.jpg
 creator:
   author:
     agent_name: Kraepelin, Karl
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '55869'
     url: http://www.gutenberg.org/2009/agents/55869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70692#Naturstudien-im-Hause-b-Plaudereien-in-der-Dammerstunde
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70692'
